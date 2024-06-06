@@ -14,7 +14,7 @@ Each CSV file contains the following observables:
 | `z`          | $z$                           | dynamical critical exponent                    |
 | `beta_o_nu`  | $\beta / \nu$                 | magnetization exponent                         |
 | `gam_o_nu`   | $\gamma / \nu$                | susceptibility exponent                        |
-| `scaling`    | $2\beta/\nu + \gamma/\nu - 1$ | leftover exponent of the hyperscaling relation |
+| `scaling`    | $2\beta/\nu + \gamma/\nu - z$ | leftover exponent of the hyperscaling relation |
 | `correction` | $\theta$                      | correction exponent defined in the paper       |
 | `optr`       | $R_{\text{opt}}$              | optimal value of correlation ratio             |
 | `gc`         | $\Gamma_{\text{c}}$           | critical field                                 |
